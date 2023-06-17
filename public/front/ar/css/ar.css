@@ -1,0 +1,35 @@
+.first-navbar {
+    direction: rtl;
+}
+.flagicon {
+    padding-left: 10px;
+    width: 26px;
+}
+.nav-link .fa-user {
+    float: left;
+    margin-right: 7px;
+    position: relative;
+    top: 3px;
+}
+.nav-link .fa-shopping-cart {
+    float: left;
+    margin-right: 7px;
+    position: relative;
+    top: 3px;
+}
+.offset-md-4 {
+    margin-left: 33.333333%!important;
+}
+
+.modal-header {
+    text-align: right;
+    float: right;
+    display: block;
+}
+.form-control {
+    text-align: right;
+}
+.modal-footer>:not(:first-child) {
+    margin-right: .25rem;
+    margin-left: 20px;
+}
